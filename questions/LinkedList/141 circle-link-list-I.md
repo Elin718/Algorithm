@@ -13,7 +13,8 @@ To represent a cycle in the given linked list, we use an integer pos which repre
 
 
 ## 思路
-### 龟兔赛跑，兔子总能追上乌龟的
+### 龟兔赛跑，兔子总能追上乌龟的  我在A分支上改了
+
 ``
 无论是插入、删除、还是获取数据，都只有这三种情况。
 
